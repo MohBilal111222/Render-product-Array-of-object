@@ -1,0 +1,51 @@
+
+
+
+
+
+span{
+     color: white;
+}
+
+#Product{
+     color: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-card {
+    width: 250px;
+    height: 280px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    color:rgb(63, 190, 221);
+    background-color:black;
+   
+
+
+}
+
+.color{
+    color:rgb(20, 157, 167);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+footer{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+.Home{
+    text-align: center;
+    color: aliceblue;
+}
